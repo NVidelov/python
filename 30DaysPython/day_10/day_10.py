@@ -53,3 +53,7 @@ else:
     print(f'The sum of all even numbers is {even_sum}. The sum of all odd numbers is {odd_sum}')
 
 # Exercise Level 3
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.reverse()
+for fruit in fruits:
+    print(fruit)
